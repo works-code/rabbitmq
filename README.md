@@ -3,7 +3,7 @@
 - mac
 - java 15
 - rabbitmq client 5.10.0
-- rabbitmq server ?
+- rabbitmq server 3.8.9
 - spring boot
 - gradle
 
