@@ -1,11 +1,11 @@
 # rabbitmq
 #### # 개발 환경
-- mac
+- mac os catalina
 - java 15
 - rabbitmq client 5.10.0
 - rabbitmq server 3.8.9
-- spring boot
-- gradle
+- spring boot 2.4.0
+- gradle 6.6.1
 
 #### # 모듈 소개
 - producer : 메세지 큐에 넣는 모듈
